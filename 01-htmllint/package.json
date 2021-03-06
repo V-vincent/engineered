@@ -1,0 +1,14 @@
+{
+  "name": "htmllint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "htmllint_test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "htmllint": "^0.8.0"
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "rules": {
+        "indentation": 4,
+        "block-no-empty": true,
+        "color-no-invalid-hex": true,
+        "function-comma-space-after": "always",
+        "max-empty-lines": 4
+    }
+}
